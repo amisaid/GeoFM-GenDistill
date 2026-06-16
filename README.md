@@ -1,2 +1,5 @@
 # GeoFM-GenDistill
-Generalised distillation of TerraMind Geospatial Foundation Model
+This repo presented Generalised distillation of TerraMind Geospatial Foundation Model in segmentation task. The study is carried out using three datasets:
+* [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11/tree/master) - binary segmentation
+* [Crop Type Mapping South Sudan (CTM-SS)](https://github.com/roserustowicz/crop-type-mapping/tree/master) - multiclass segmentation
+* [PASTIS-R](https://github.com/VSainteuf/pastis-benchmark) - multiclass segmentation
